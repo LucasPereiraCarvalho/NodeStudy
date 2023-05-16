@@ -6,3 +6,4 @@ Curso Udemy: NodeJs, Typescript, TDD, DDD, Clean Architecture e SOLID
 
 # Util
 https://node.green/
+https://standardjs.com/rules.html
