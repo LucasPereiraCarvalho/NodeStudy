@@ -15,3 +15,9 @@
 
 * ```npm i -D lint-staged```
 * Permite rodar scripts somente em arquivos que estejam na staged area
+
+* ```npm i -D jest @types/jest ts-jest```
+* Biblioteca de testes
+
+* ```jest --init```
+* Cria arquivo de configuração do jest
